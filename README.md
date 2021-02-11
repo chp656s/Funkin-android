@@ -8,6 +8,10 @@ https://github.com/luckydog7/Funkin-android/releases
 
 If you just want to play,"source code" is no needed
 
+source code of fnf 0.2.7 build 4:
+http://www.mediafire.com/file/biw88nqm77kvpsp/Funkin-0.2.7-4.zip/file
+
+
 source code of fnf 0.2.6 build 1:
 https://www.mediafire.com/file/hzk296f5x89qo1n/Funkin-0.2.6.7z/file
 source code of fnf 0.2.7 build 2:
@@ -29,7 +33,8 @@ Play the Ludum Dare prototype here: https://ninja-muffin24.itch.io/friday-night-
 Play the Newgrounds one here: https://www.newgrounds.com/portal/view/770371
 Support the project on the itch.io page: https://ninja-muffin24.itch.io/funkin
 
-Build instructions
+Build instructions 
+(or you can use this https://iambombay.medium.com/haxeflixel-android-setup-d8307a418cfe)
 
 0.first need to install using this guide
 https://github.com/ninjamuffin99/Funkin
