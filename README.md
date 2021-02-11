@@ -7,6 +7,8 @@ https://github.com/luckydog7/Funkin-android/releases
 
 
 If you just want to play,"source code" is no needed
+Download source code only there
+
 
 source code of fnf 0.2.7 build 4:
 http://www.mediafire.com/file/biw88nqm77kvpsp/Funkin-0.2.7-4.zip/file
